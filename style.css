@@ -1,0 +1,60 @@
+#contact iframe
+{
+    width: 100%;
+    margin-top: 20px;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+
+.nutrition_li
+{
+  margin-top: 13px;
+}
+
+.nutrition_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.nutrition_li img
+{
+  border-radius: 25px;
+}
+
+.nutrition_li p
+{
+  margin-top:10px;
+}
+
+.header_entrepreneur
+{
+  line-height: 2;
+}
+body{
+    background-image: url("https://media.istockphoto.com/photos/healthy-fresh-vegetables-frame-copy-space-picture-id1249223936?b=1&k=20&m=1249223936&s=170667a&w=0&h=hxKD4SC8LPwZoIDkyMo894U2qxZl7WAVbJm3Zcme-8M=");
+}
+#heading, #headingid5, #heading5{
+    background-color: gray;
+    border-radius: 20px;
+    color: white;
+    font-family:monospace;
+}
+#healthy, #un, #healthyp, #unhealthyp{
+    font-family:cursive;
+}
+#img1{
+    margin-top: 100px; 
+}
